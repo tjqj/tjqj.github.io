@@ -3,15 +3,12 @@
 	<head>
 		<title>云外信-YunWaiXin 临沂五中2017级11&12班专栏</title>
 		<script>
-     document.addEventListener('visibilitychange', function() {
-      var isHidden = document.hidden;
-      if (isHidden) {
-       document.title = '崩溃了o(≧口≦)o，快来看看！';
-      } else 
-       document.title = '云外信-YunWaiXin 临沂五中2017级11&12班专栏';
-      }
-     });
-        </script>
+window.onfocus = function () {
+document.title = '云外信-YunWaiXin 临沂五中2017级11&12班专栏';
+};
+window.onblur = function () {
+document.title = '崩溃了o(≧口≦)o，快来看看！';
+};
 		</script>
 	</head>
 		<meta charset="utf-8" />
@@ -59,7 +56,7 @@
 （请忽视我以前的吐槽）
 	——2020/7
 
-
+    
   -->
 		
 		<script type="text/javascript">
