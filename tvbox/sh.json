@@ -940,7 +940,7 @@
     },
     {
       "key": "csp_xp_omofun",
-      "name": "日漫",
+      "name": "搜索专用源",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -2876,7 +2876,7 @@
         {
           "name": "redirect",
           "urls": [
-            "https://1.com/"
+            "https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio"
           ]
         }
       ]
@@ -4219,6 +4219,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+  "wallpaper": "https://s3.bmp.ovh/imgs/2022/03/40767288d1dc3e74.jpg",
   "spider": "https://raw.iqiq.io/liu673cn/box/main/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
 }
