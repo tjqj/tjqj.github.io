@@ -2876,7 +2876,7 @@
         {
           "name": "redirect",
           "urls": [
-            "https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvUWlhb0ppNi9GcmVlRC9tYXN0ZXIvbGl2ZS50eHQ="
           ]
         }
       ]
