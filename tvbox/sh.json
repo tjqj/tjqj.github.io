@@ -1,8 +1,18 @@
 {
   "sites": [
     {
-      "key": "csp_Lgyy",
+      "key": "csp_biubiu_cupfox",
       "name": "菜鸟影视聚合",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E8%8C%B6%E6%9D%AF%E7%8B%90%20(1).json"
+    },
+    {
+      "key": "csp_Lgyy",
+      "name": "菜鸟影视聚合Ⅱ",
       "type": 3,
       "api": "csp_Lgyy",
       "searchable": 1,
@@ -11,7 +21,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "菜鸟影视聚合Ⅱ",
+      "name": "菜鸟影视聚合Ⅲ",
       "type": 3,
       "api": "csp_Bttoo",
       "searchable": 1,
