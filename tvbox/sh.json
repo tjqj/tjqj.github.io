@@ -1,27 +1,8 @@
 {
   "sites": [
     {
-      "key": "csp_biubiu_cupfox",
-      "name": "菜鸟影视聚合",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E8%8C%B6%E6%9D%AF%E7%8B%90%20(1).json"
-    },
-    {
-      "key": "csp_Lgyy",
-      "name": "菜鸟影视聚合Ⅱ",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Bttoo",
-      "name": "菜鸟影视聚合Ⅲ",
+      "name": "菜鸟影视聚合",
       "type": 3,
       "api": "csp_Bttoo",
       "searchable": 1,
@@ -30,7 +11,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "菜鸟电影备用",
+      "name": "菜鸟备用",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -39,7 +20,7 @@
     },
     {
       "key": "csp_Mjxq",
-      "name": "菜鸟电视剧备用",
+      "name": "菜鸟备用",
       "type": 3,
       "api": "csp_Mjxq",
       "searchable": 1,
@@ -48,27 +29,9 @@
     },
     {
       "key": "csp_Yj1211",
-      "name": "菜鸟直播备用",
+      "name": "菜鸟直播",
       "type": 3,
       "api": "csp_Yj1211",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Smdyy",
-      "name": "菜鸟动漫备用",
-      "type": 3,
-      "api": "csp_Smdyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_SP360",
-      "name": "菜鸟动画片备用",
-      "type": 3,
-      "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
