@@ -1,10 +1,13 @@
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
+//🐧裙：711368232
 
 {
 	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;09BAF4A03D362D96F0FC14085C343191"，
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302"，
 
 	"sites":[
-{"key":"csp_77"，"name":"菜鸟影视"，"type":3，"api":"csp_Kunyu77"，"searchable":1，"quickSearch":1，"filterable":1}，
+{"key":"csp_77"，"name":"👒酷云七七┃本接口免费-🈲贩卖"，"type":3，"api":"csp_Kunyu77"，"searchable":1，"quickSearch":1，"filterable":1}，
 {"key":"dr_豆瓣"，"name":"🔍豆瓣"，"type":3，"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js"，"searchable":0，"quickSearch":0，"filterable":0，"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"}，
 {"key":"360"，"name":"💘360"，"type":3，"api":"csp_SP33"，"searchable":1，"quickSearch":1，"filterable":1，"changeable":0}，
 {"key":"小苹果"，"name":"🍎小苹果"，"type":3，"api":"csp_LiteApple"，"playerType":1，"searchable":1，"quickSearch":1，"filterable":1}，
